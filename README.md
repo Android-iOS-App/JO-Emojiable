@@ -1,4 +1,4 @@
-# JOEmojiableBtn
+# JO-EmojiableBtn
 
 [![Version](https://img.shields.io/cocoapods/v/JOEmojiableBtn.svg?style=flat)](http://cocoapods.org/pods/JOEmojiableBtn)
 [![License](https://img.shields.io/cocoapods/l/JOEmojiableBtn.svg?style=flat)](http://cocoapods.org/pods/JOEmojiableBtn)

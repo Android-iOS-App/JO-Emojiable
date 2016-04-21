@@ -88,16 +88,6 @@ self.view.addSubview(btn2)
 * Create different layouts, inferior, left, depending on the superview position.
 * Add Option labels.
 
-
-## Author
-
-Jorge Ovalle, jroz9105@gmail.com
-
-
-![image](http://stream1.gifsoup.com/webroot/animatedgifs/808678_o.gif)
-
-
-
 ## License
 
 JOEmojiableBtn is available under the MIT license. See the LICENSE file for more info.
